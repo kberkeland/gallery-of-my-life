@@ -1,0 +1,14 @@
+.item-card {
+    max-width: 275
+}
+
+.item-media {
+    height: 48
+}
+
+.item-img {
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
